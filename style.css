@@ -1,0 +1,36 @@
+body
+{
+  font-family: 'Special Elite', cursive;
+  background: #f5dbda;
+}
+
+b{
+    color:blueviolet;
+}
+ #mini_result
+  {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px; 
+    box-shadow: 5px 5px 18px white;    
+  }
+   h2 img{
+     width:100px;
+     height:100px;
+   }
+ .text_images_and_result img{
+   border-radius: 25px;
+  background: #73AD21;
+  padding: 10px;
+  width: 200px;
+  height: 250px;
+ }
+ .header_div
+  {
+  background: white;
+  color: #ce2700; 
+  }
+  .header_div img
+  {
+    width: 100px
+  }
